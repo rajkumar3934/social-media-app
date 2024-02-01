@@ -40,7 +40,7 @@ npm install
 
 # Run the server
 cd ..
-npm run dev
+node index.js
 
 # Run the client
 cd client
